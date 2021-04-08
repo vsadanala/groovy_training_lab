@@ -1,4 +1,4 @@
-Range r = 1..11
+Range r = 1..10
 println r
 println r.class.name
 println r.from
